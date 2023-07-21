@@ -24,7 +24,7 @@ Create a dashboard according to the mock-up provided by stakeholders.
 
 ✔ Highest bookings comes from MakeYourTrip platform
 
-✔ Cancillation is 24.83% and Realization is 70.15%
+✔ Cancellation is 24.83% and Realization is 70.15%
 
 To know more insights and see my dashboard visit my portfolio. Link is available.
 

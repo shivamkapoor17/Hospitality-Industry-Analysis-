@@ -1,6 +1,6 @@
 # Hospitality-Industry-Analysis-
 
- **View Dashboard:** https://www.novypro.com/project/hospitality-analysis-7
+ **View Power BI Dashboard:** https://www.novypro.com/project/hospitality-analysis-7
 
 # Problem statement
 

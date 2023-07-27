@@ -28,6 +28,6 @@ Create a dashboard according to the mock-up provided by stakeholders.
 
 ✔ Cancellation is 24.83% and Realization is 70.15%
 
-To know more insights and see my dashboard visit my portfolio. Link is available.
+To know more insights and to see my dashboard visit my portfolio. Link is available.
 
  
